@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Arjun Dadhich
 
-Aspiring Machine Learning Engineer passionate about building data-driven solutions that solve real-world problems. I enjoy working on end-to-end machine learning projects—from data preprocessing and feature engineering to model training and evaluation.
+Aspiring Machine Learning Engineer passionate about building data-driven solutions that solve real-world problems. I enjoy working on end-to-end machine learning projects from data preprocessing and feature engineering to model training and evaluation.
 
 Currently focused on strengthening my skills in Machine Learning, Data Structures & Algorithms, and SQL while building practical projects.
 
