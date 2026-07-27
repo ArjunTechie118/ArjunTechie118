@@ -6,7 +6,7 @@ Currently focused on strengthening my skills in Machine Learning, Data Structure
 
 
 # 💫 About Me:
-🔭Currently working on Machine Learning and Data Science projects<br><br>🌱 Currently learning Advanced Machine Learning, Data Engineering concepts, and System Design<br><br>🤝 Looking to collaborate on Open Source ML and Python projects<br><br>💬 Ask me about Python, Machine Learning, Scikit-learn, SQL, Data Analysis, and Data Preprocessing<br><br>⚡ Interests: Artificial Intelligence, Data Engineering, Backend Development, and Problem Solving<br><br>🎯 Goal: To become a Machine Learning Engineer who builds reliable and scalable AI solutions.
+🔭Currently working on Machine Learning and Data Science projects<br><br>🌱 Currently learning Advanced Machine Learning, Data Engineering concepts, and Deep Learnin<br><br>🤝 Looking to collaborate on Open Source ML and Python projects<br><br>💬 Ask me about Python, Machine Learning, Scikit-learn, SQL, Data Analysis, and Data Preprocessing<br><br>⚡ Interests: Artificial Intelligence, Data Engineering, Backend Development, and Problem Solving<br><br>🎯 Goal: To become a Machine Learning Engineer who builds reliable and scalable AI solutions.
 
 
 ## 🌐 Socials:
