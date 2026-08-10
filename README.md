@@ -17,10 +17,11 @@ Currently focused on strengthening my skills in Machine Learning, Data Structure
 
 # 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://vercel.app" height="180" />
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunTechie118&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunTechie118&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArjunTechie118)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
