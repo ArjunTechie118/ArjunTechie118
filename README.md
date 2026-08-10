@@ -18,8 +18,9 @@ Currently focused on strengthening my skills in Machine Learning, Data Structure
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats-gules-mu-l77xi5w0eo.vercel.app/api?username=ArjunTechie118&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Langs](https://github-readme-stats-gules-mu-l77xi5w0eo.vercel.app/api/top-langs/?username=ArjunTechie118&layout=compact&theme=radical&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ArjunTechie118&theme=radical)
+![Top Langs](https://github-readme-stats-gules-mu-l77xi5w0eo.vercel.app/api/top-langs/?username=ArjunTechie118&layout=compact&theme=radical&cache_seconds=86400)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
