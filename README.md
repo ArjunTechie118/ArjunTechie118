@@ -17,11 +17,11 @@ Currently focused on strengthening my skills in Machine Learning, Data Structure
 
 # 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunTechie118&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunTechie118&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunTechie118&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArjunTechie118&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ArjunTechie118&theme=radical&row=1&margin-w=15)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunTechie118&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArjunTechie118)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
