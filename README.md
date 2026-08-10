@@ -17,12 +17,9 @@ Currently focused on strengthening my skills in Machine Learning, Data Structure
 
 # 📊 GitHub Stats
 
-* **Total Commits (Last Year):** 45  
-* **Total Stars Earned:** 1  
-
-### 🔥 Contribution Streak
-* **Current Streak:** 0 Days  
-* **Longest Streak:** 0 Days 
+<p align="left">
+  <img src="https://vercel.app" height="180" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
