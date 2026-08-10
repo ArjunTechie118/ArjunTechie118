@@ -19,6 +19,8 @@ Currently focused on strengthening my skills in Machine Learning, Data Structure
 ![](https://streak-stats.demolab.com/?user=ArjunTechie118&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArjunTechie118&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
